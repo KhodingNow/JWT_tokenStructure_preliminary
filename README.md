@@ -1,0 +1,1 @@
+# JWT_tokenStructure_preliminary
